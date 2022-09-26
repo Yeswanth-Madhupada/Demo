@@ -1,3 +1,2 @@
 # Demo
-hello
-my first repository
+hello my first repository
